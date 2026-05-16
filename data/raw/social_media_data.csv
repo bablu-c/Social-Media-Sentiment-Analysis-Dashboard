@@ -1,0 +1,31 @@
+text,sentiment
+I love this product,positive
+This app is amazing,positive
+Excellent customer support,positive
+Very happy with the service,positive
+The food was delicious,positive
+Fast delivery and great packaging,positive
+I really enjoyed using this app,positive
+Fantastic experience overall,positive
+Best application ever made,positive
+Customer support solved my issue quickly,positive
+Worst delivery ever,negative
+Terrible customer service,negative
+I hate this application,negative
+Very disappointing experience,negative
+The product quality is bad,negative
+Waste of money,negative
+The app crashes frequently,negative
+Not satisfied with the service,negative
+Very poor packaging and delayed delivery,negative
+The system is full of bugs,negative
+The meeting is scheduled tomorrow,neutral
+Product launched yesterday,neutral
+I am using the app,neutral
+The order was placed successfully,neutral
+Today is Monday,neutral
+The update was released this week,neutral
+User logged into the system,neutral
+The phone is available in stores,neutral
+Server maintenance starts tonight,neutral
+Application version updated successfully,neutral

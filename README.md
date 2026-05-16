@@ -52,6 +52,6 @@ This project helped in understanding:
 
 # Author
 
-Bablu Shaw
+Bablu kumar
 
 Student | Machine Learning Enthusiast | NLP Learner
